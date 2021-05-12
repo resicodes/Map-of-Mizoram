@@ -1,2 +1,2 @@
-# Map-of-Mizoram
+# Map of Mizoram
 Detailed map of Mizoram State
